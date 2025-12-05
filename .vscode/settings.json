@@ -1,0 +1,8 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/bin/python",
+  "terminal.integrated.env.osx": {
+    "GIT_AUTHOR_EMAIL": "thinh.ngo@gmail.com",
+    "GIT_AUTHOR_NAME": "Thinh Ngo",
+    "GIT_SSH_COMMAND": "ssh -o IdentitiesOnly=yes -i ~/.ssh/id_rsa -F /dev/null"
+  },
+}
