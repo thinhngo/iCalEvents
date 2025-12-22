@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Travel Buddy//13 Day Taiwan Family Trip//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+SUMMARY:🏠 Arrival: Base Camp Taipei
+DTSTART;TZID=Asia/Taipei:20260127T090000
+DTEND;TZID=Asia/Taipei:20260127T120000
+LOCATION:Xinyi District\, Taipei
+DESCRIPTION:LAX group arrives. Base camp for both groups. Focus on recovery and baby supplies.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🍽️ Lunch: Din Tai Fung (Taipei 101)
+DTSTART;TZID=Asia/Taipei:20260127T130000
+DTEND;TZID=Asia/Taipei:20260127T150000
+LOCATION:Taipei 101\, B1
+DESCRIPTION:Highly accessible branch. Best nursing rooms located in the 101 basement mall.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌳 Daan Forest Park Stroll
+DTSTART;TZID=Asia/Taipei:20260127T153000
+DTEND;TZID=Asia/Taipei:20260127T170000
+LOCATION:Daan District\, Taipei
+DESCRIPTION:100% flat and paved. Perfect for light exercise to combat jet lag for the LAX group.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏮 Dihua St & Longshan Temple
+DTSTART;TZID=Asia/Taipei:20260128T100000
+DTEND;TZID=Asia/Taipei:20260128T160000
+LOCATION:Datong & Wanhua District
+DESCRIPTION:Lunar New Year market + spiritual visit. Use side ramps at Longshan for strollers/seniors.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:♨️ Beitou Hot Springs & Thermal Valley
+DTSTART;TZID=Asia/Taipei:20260129T100000
+DTEND;TZID=Asia/Taipei:20260129T140000
+LOCATION:Beitou District
+DESCRIPTION:Book a private family hot spring room. Thermal Valley is a flat paved walk nearby.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌊 Yehliu & Jiufen (No-Stairs Hack)
+DTSTART;TZID=Asia/Taipei:20260130T090000
+DTEND;TZID=Asia/Taipei:20260130T173000
+LOCATION:North Coast
+DESCRIPTION:Driver drop-off at Shengping Theater for Jiufen to avoid the 200+ central stairs.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌸 Yangmingshan Cherry Blossoms
+DTSTART;TZID=Asia/Taipei:20260131T100000
+DTEND;TZID=Asia/Taipei:20260131T130000
+LOCATION:Lane 42\, Pingjing St
+DESCRIPTION:View early blooms from flat roadside; no steep hiking required for senior group members.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚄 HSR to Taichung (Car 7 Priority)
+DTSTART;TZID=Asia/Taipei:20260201T110000
+DTEND;TZID=Asia/Taipei:20260201T120000
+LOCATION:Taipei Main Station
+DESCRIPTION:Book priority Car 7 (extra space\, near elevators). Ticket booking opens 28 days prior.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌅 Gaomei Wetlands Sunset
+DTSTART;TZID=Asia/Taipei:20260201T163000
+DTEND;TZID=Asia/Taipei:20260201T183000
+LOCATION:Qingshui\, Taichung
+DESCRIPTION:100% flat wooden boardwalk nature walk over marshes. Stroller friendly.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⛴️ Sun Moon Lake Private Charter
+DTSTART;TZID=Asia/Taipei:20260202T100000
+DTEND;TZID=Asia/Taipei:20260202T150000
+LOCATION:Shuishe Pier
+DESCRIPTION:Private boat avoids ramps/crowds. Flat food street at Ita Thao for aboriginal snacks.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎨 Taichung: Rainbow Village & Flower Park
+DTSTART;TZID=Asia/Taipei:20260203T100000
+DTEND;TZID=Asia/Taipei:20260203T150000
+LOCATION:Nantun & Houli
+DESCRIPTION:Colorful accessible art spot + expansive flat flower park. Senior citizen and baby friendly.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🍦 Miyahara Ice Cream & HSR Return
+DTSTART;TZID=Asia/Taipei:20260204T110000
+DTEND;TZID=Asia/Taipei:20260204T150000
+LOCATION:Central Taichung
+DESCRIPTION:Stunning historic building (fully accessible). Return to Taipei via HSR after.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🚠 Maokong Gondola & Mountain Tea
+DTSTART;TZID=Asia/Taipei:20260205T140000
+DTEND;TZID=Asia/Taipei:20260205T180000
+LOCATION:Wenshan District
+DESCRIPTION:Glass-floor 'Crystal' cabins. Tea at Yaoyue Tea House (accessible with mountain views).
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏛️ National Palace Museum
+DTSTART;TZID=Asia/Taipei:20260206T100000
+DTEND;TZID=Asia/Taipei:20260206T140000
+LOCATION:Shilin District
+DESCRIPTION:Senior-paced visit. Use museum high-capacity elevators and baby nursing rooms.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🛒 Nanmen Market & Final Feast
+DTSTART;TZID=Asia/Taipei:20260207T100000
+DTEND;TZID=Asia/Taipei:20260207T180000
+LOCATION:Taipei City
+DESCRIPTION:New market shopping (AM) + Farewell Din Tai Fung (Xinyi A13 Branch) for dinner.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🍽️ Farewell Dinner: Din Tai Fung (A13)
+DTSTART;TZID=Asia/Taipei:20260207T183000
+DTEND;TZID=Asia/Taipei:20260207T203000
+LOCATION:Xinyi A13 Mall
+DESCRIPTION:Final group dinner. This mall has the best nursing/changing facilities in the city.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✈️ Departure Logistics
+DTSTART;TZID=Asia/Taipei:20260208T090000
+DTEND;TZID=Asia/Taipei:20260208T140000
+LOCATION:Taoyuan Airport (TPE)
+DESCRIPTION:Private van transfer to TPE terminal for both groups. Coordinate based on flight times.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔔 REMINDER: LAX Flight Check
+DTSTART;TZID=Asia/Taipei:20251220T090000
+DTEND;TZID=Asia/Taipei:20251220T100000
+LOCATION:Booking Phase
+DESCRIPTION:Ensure LAX group departs night of Jan 25 (local time) to arrive Jan 27 morning.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔔 REMINDER: HSR Booking (28 Days Out)
+DTSTART;TZID=Asia/Taipei:20251231T090000
+DTEND;TZID=Asia/Taipei:20251231T100000
+LOCATION:Online
+DESCRIPTION:Book Car 7 for the Feb 1 and Feb 4 HSR journeys exactly 28 days in advance.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
